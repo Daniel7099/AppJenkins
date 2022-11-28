@@ -1,2 +1,2 @@
 # AppJenkins
-Primera aplicacion enlanzada en jenkins
+Primera aplicacion enlanzada en jenkins v2
