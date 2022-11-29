@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Mi página de ejemplo</title>
