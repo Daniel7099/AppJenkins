@@ -11,5 +11,10 @@ pipeline {
                   -Dsonar.login=sqp_3285e07cf70a0e1e14e5c1fa7f7744eb872f288e'''
             }
         }
+        stage('notify') {
+            steps {
+                 slackSend channel: '#integracion-continua', message: "test de despliegue de app desde github ${env.JOB_NAME} "
+            }
+        }
     }
 }
