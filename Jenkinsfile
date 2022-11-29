@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Sonar checking') {
             steps {
-                sh '''sonar-scanner \\
+                sh '''/opt/sonar-scanner/bin/sonar-scanner \\
                   -Dsonar.projectKey=AppJenkins \\
                   -Dsonar.sources=. \\
                   -Dsonar.host.url=http://172.17.0.3:9000 \\
