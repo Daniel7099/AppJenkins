@@ -8,6 +8,7 @@
     
      <?php
             echo "¡Hola, soy un script de PHP!";
+		prueba completada
         ?>
 	</body>
 </html>
