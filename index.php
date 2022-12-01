@@ -1,15 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<title>Mi página de ejemplo</title>
-	</head>
-	<body>
-	Aquí va el contenido
-    
-     <?php
-            echo "¡Hola, soy un script de PHP!";
-		prueba completada
-        ?>
-	</body>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Sin el Mundo</p>'; ?> 
+  Prueba completada!
+ </body>
 </html>
 
