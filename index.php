@@ -1,5 +1,5 @@
-  <?php
+  <?ph
  
- ech "¡Hola mundo!";
+ echo "¡Hola mundo!";
  
   ?>
