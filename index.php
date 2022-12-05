@@ -1,5 +1,5 @@
-  <?ph
+  <?
  
  echo "¡Hola mundo!";
- 
+
   ?>
