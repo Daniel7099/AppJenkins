@@ -5,7 +5,7 @@
  </head>
  <body>
  <?php '<p>Sin el Mundo</p>'; ?> 
-  Prueba completadaa!
+  Prueba completadaaaa!
  </body>
 </html>
 
