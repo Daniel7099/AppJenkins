@@ -1,6 +1,3 @@
-	<?php
- 	echo "¡Hola mundoo!";
-
 
 <!DOCTYPE html>
 <html lang="es">
